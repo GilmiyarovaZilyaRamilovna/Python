@@ -8,4 +8,3 @@ def matrix(n =1,m = 0, a = 0):
 rows = matrix()
 for row in rows:
     print(*row)
-
