@@ -8,3 +8,4 @@ for main in range(0, len(group)):
     else:
         print(group[main], ' - ', group[x1])
         x1 += 1
+
